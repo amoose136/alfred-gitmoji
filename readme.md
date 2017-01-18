@@ -1,9 +1,11 @@
 ## GitMoji
 Some Alfred Snippets to make putting the true unicode equivalents of things like :sparkles:, :lipstick:, and other emojis used it git comments easier to type. It gives them names relavent to coding.
-Example: `:sparkles:` -> `:new:` Because one uses it when adding new features
-`:penguin:` -> `:linux:` Because one uses it when making linux related changes
-`:checkered_flag:` -> `:windows:` Because one uses it when for windows related changes
-`:heavy_plus_sign:` -> `:+dep:` Because one uses it when adding dependancies
+Example: 
+* `:sparkles:` -> `:new:` Because one uses ✨ when adding new features
+* `:penguin:` -> `:linux:` Because one uses 🐧 when making linux related changes
+* `:checkered_flag:` -> `:windows:` Because one uses 🏁 for windows related 
+changes
+* `:heavy_plus_sign:` -> `:+dep:` Because one uses ➕  when adding dependancies
 
 etc
 
