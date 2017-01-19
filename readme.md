@@ -13,6 +13,8 @@ changes
 
 _etc.._
 
+![An example where I accidentally use past tense instead of present](example.gif)
+
 Added benefit of making emojis appear with `$git log` because they are just unicode after using this.
 Inspired by: https://gitmoji.carloscuesta.me/
 And also: https://github.com/atom/atom/blob/7929e261a0d6e78ff4ca5196c8b385946e64dbd9/CONTRIBUTING.md#git-commit-messages 
@@ -62,3 +64,4 @@ And also: https://github.com/atom/atom/blob/7929e261a0d6e78ff4ca5196c8b385946e64
 
 ##Potential downside##
 Viewing git messages from a platform that does not support unicode could cause an unpleasant experience but most platforms support unicode in 2017.
+[]: 
